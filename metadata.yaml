@@ -1,0 +1,25 @@
+_repo: Tirol_70680
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haushofer, Max
+    gutenberg_agent_id: '55861'
+    url: http://www.gutenberg.org/2009/agents/55861
+description: ''
+gutenberg_issued: '2023-04-30'
+identifiers:
+  gutenberg: '70680'
+language: de
+pgterms:marc905: 20190818040224haushofer
+pgterms:marc906: '1899'
+pgterms:marc907: de
+production_note: Peter Becker, Marc-André Seekamp and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bVerlag von Velhagen und Klasing, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tirol
+url: http://www.gutenberg.org/ebooks/70680
